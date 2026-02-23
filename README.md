@@ -5,3 +5,5 @@ Download and extract the minecraft zip
 Run the run.bat file to open minecraft
 ## Mods
 If you want mods, open core and then go to the run folder. In there you will find the mods folder
+## Notice
+This is the developer version of minecraft. You cannot join servers, change your username, or change your skin, and there are proboly more limits as well.
